@@ -18,3 +18,4 @@ C:\Users\qaisa\Desktop\NJE\MyProjects\ModernDesign\obj\Debug\ModernDesign.pdb
 C:\Users\qaisa\Desktop\NJE\MyProjects\ModernDesign\obj\Debug\Theme\TextboxTheme.baml
 C:\Users\qaisa\Desktop\NJE\MyProjects\ModernDesign\obj\Debug\MVVM\View\HomeView.g.cs
 C:\Users\qaisa\Desktop\NJE\MyProjects\ModernDesign\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\qaisa\Desktop\NJE\MyProjects\ModernDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -70,5 +70,42 @@
             </Border>
 
         </StackPanel>
+
+        <StackPanel>
+
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="Margin" Value="15,0,0,0"/>
+                </Style>
+            </StackPanel.Resources>
+
+            <TextBlock Text="Most Watched"
+                   Foreground="White"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal">
+
+                <Border Width="150"
+                        Height="150"
+                        CornerRadius="10"
+                        Background="#844eff"
+                        Margin="0"/>
+                <Border Width="150"
+                        Height="150"
+                        CornerRadius="10"
+                        Background="#4e99ff"/>
+                <Border Width="150"
+                        Height="150"
+                        CornerRadius="10"
+                        Background="#4eff91"/>
+                <Border Width="150"
+                        Height="150"
+                        CornerRadius="10"
+                        Background="#ecff4e"/>
+            </StackPanel>
+        </StackPanel>
+        
     </StackPanel>
 </UserControl>
