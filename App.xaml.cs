@@ -11,6 +11,7 @@ namespace ModernDesign
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+    /// this is for xaml
     public partial class App : Application
     {
     }
